@@ -12,12 +12,12 @@ def ejercicio1 ():
     return lista
 
 def ejercicio2 (lista,divisor):
-    
+    newList = []
     for valores in lista:
-        newList.append(valores/divisor
-
-
+        newList.append(valores/divisor)
     return newList
 
-
-print (ejercicio2(ejercicio1,4))
+ejercicio1
+#print (ejercicio2([4,8,10],4))
+#print (ejercicio1())
+print (ejercicio2(ejercicio1(),4))
